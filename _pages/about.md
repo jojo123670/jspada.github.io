@@ -8,3 +8,5 @@ redirect_from:
   - /about.html
 ---
 -->
+
+Welcome! I am a Ph.D. student in economics at the University of Michigan.
