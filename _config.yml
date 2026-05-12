@@ -23,7 +23,7 @@ repository               : "joseph-spada/joseph-spada.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.jpg"
   name             : "Joseph Spada"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Economics"
